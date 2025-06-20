@@ -1,0 +1,87 @@
+# Dictionary of foods and ingredients
+
+# Ingredients of food, no plurals
+ingredients = {
+    # Fruits
+    "apple" : 0,
+    "avocado" : 0,
+    "banana" : 0,
+    "beet" : 0,
+    "blackberry" : 0,
+    "blueberry" : 0,
+    "cherry" : 0,
+    "coconut" : 0,
+    "corn" : 0,
+    "cranberry" : 0,
+    "grape" : 0,
+    "grapefruit" : 0,
+    "green bean" : 0,
+    "kiwi" : 0,
+    "lemon" : 0,
+    "lime" : 0,
+    "mango" : 0,
+    "olive" : 0,
+    "orange" : 0,
+    "passion fruit" : 0,
+    "peach" : 0,
+    "pear" : 0,
+    "pepper" : 0,
+    "pineapple" : 0,
+    "plum" : 0,
+    "pomegranate" : 0,
+    "raspberry" : 0,
+    "strawberry" : 0,
+    "tomato" : 0,
+    "watermelon" : 0,
+    # Vegetables
+    "artichoke" : 0,
+    "asparagus" : 0,
+    "broccoli" : 0,
+    "brussel sprout" : 0,
+    "cabbage" : 0,
+    "carrots" : 0,
+    "cauliflower" : 0,
+    "cucumber" : 0,
+    "garlic" : 0,
+    "lettuce" : 0,
+    "mushroom" : 0,
+    "onion" : 0,
+    "pea" : 0,
+    "potato" : 0,
+    "pumpkin" : 0,
+    "radish" : 0,
+    "spinach" : 0,
+    "turnip" : 0,
+    "yams" : 0,
+    # Dairy
+    "butter" : 0,
+    "cheese" : 0,
+    "gelato" : 0,
+    "ice cream" : 0,
+    "milk" : 0,
+    "pudding" : 0,
+    "sour cream" : 0,
+    "yogurt" : 0,
+    "whey" : 0,
+    # Grains (Pasta : 0, Bread : 0, Cereal : 0, Rice)
+    "bread" : 0,
+    "brown rice" : 0,
+    "cereal" : 0,
+    "oats" : 0,
+    "oatmeal" : 0,
+    "pasta" : 0,
+    "quinoa" : 0,
+    "white rice" : 0,
+    # Meat / Protein
+    "egg" : 0,
+    "ham" : 0,
+    # Other
+    "pasta sauce" : 0,
+    "pesto" : 0,
+    "olive oil" : 0
+}
+
+foodMap = {
+    "ham sandwich" : ["ham", "cheese", "bread"],
+    "ravioli" : ["pasta", "cheese", "spinach", "tomato", "pesto", "garlic", "olive oil"]
+}
