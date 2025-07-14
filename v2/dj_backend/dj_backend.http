@@ -1,0 +1,6 @@
+@dj_backend_HostAddress = http://localhost:5004
+
+GET {{dj_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
